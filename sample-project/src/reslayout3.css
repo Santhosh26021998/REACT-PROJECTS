@@ -1,0 +1,14 @@
+.search{
+    width: 30%;
+    margin-top: 2%;
+}
+.res3{
+    background-image: url("images.jpeg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: whitesmoke;
+    height: 50vh;
+}
+.searchicon{
+    border-style: solid;
+}

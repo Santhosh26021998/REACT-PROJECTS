@@ -1,0 +1,15 @@
+
+.searchbar{
+  width:fit-content;
+  border:1px solid black;
+}
+.inp{
+    border: none;
+    width: 70%;
+    outline: none;
+}
+.searchpg1{
+    margin-left: 20%;
+    margin-top: 3%;
+    color: grey;
+}
